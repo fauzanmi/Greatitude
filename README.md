@@ -1,8 +1,8 @@
-# Mood Journal
+# Greatitude
 
 [![Static Badge](https://img.shields.io/badge/Kotlin-black?logo=kotlin)]()
 
-### Mood Journal is a sleek and feature-rich Android app built with Android Studio, designed to help users track their journaling and daily experiences effortlessly. This app provides a clean and intuitive user interface with a variety of customization options.
+### Greatitude is a sleek and feature-rich Android app built with Android Studio, designed to help users track their journaling and daily experiences effortlessly. This app provides a clean and intuitive user interface with a variety of customization options.
 
 ## Features ✨-
 - Custom Date Selection
